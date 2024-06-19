@@ -1,0 +1,15 @@
+# config.md
+
+# subfolder/config.md
+
+# subfolder/
+
+# /subfolder/
+
+# /subfolder/
+
+*.txt
+
+cou*.md
+
+cou*24.md
